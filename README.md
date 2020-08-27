@@ -6,5 +6,5 @@ The Notebooks in this repository can be run with RAPIDS Stable or Nightly at [ap
 
 Clone the repo by running this command in Terminal:
 ```
-git clone https://github.com/gumdropsteve/cuml_logistic_regression
+git clone https://github.com/Dropout-Analytics/cuml_logistic_regression
 ```
